@@ -1,0 +1,21 @@
+.row{
+    position: absolute;
+}
+
+.item{
+    height: 600px
+}
+
+.back{
+    margin-left: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+.navbar{
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+
